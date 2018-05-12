@@ -1,0 +1,14 @@
+.chi-card {
+    width: 280px;
+    height: 280px;
+    background-size: cover;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    margin: 10px;
+    display: flex;
+}
+
+p {
+    align-self: flex-end;
+}
